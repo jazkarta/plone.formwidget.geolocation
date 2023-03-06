@@ -44,7 +44,7 @@ setup(
     install_requires=[
         "setuptools",
         "z3c.form",
-        "Products.CMFPlone>=6.0.0b2",
+#        "Products.CMFPlone>=6.0.0b2",
     ],
     extras_require={
         "test": [
